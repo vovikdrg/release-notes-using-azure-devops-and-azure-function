@@ -1,0 +1,1 @@
+Source code for [my blog post](https://bilyachat.com/blog/release-notes-with-azure-devops-and-azure-functions-for-free)
